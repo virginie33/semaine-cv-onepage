@@ -1,7 +1,22 @@
- <center><p><a href="http://openclassrooms.com/course-certificates/77280543">cliquer ici comprendre le web</a></p>
+   <section class="jumbotron" id="menu4">
+            <div class="container">
+             <p>Mes certifications</p>
+
+              <center><p><a href="http://openclassrooms.com/course-certificates/77280543">cliquer ici comprendre le web</a></p>
               <p> <a href="http://openclassrooms.com/course-certificates/19434168">cliquer ici Apprenez à créer votre site web avec HTML5 et CSS3</a></p>
               <p><a href="http://openclassrooms.com/course-certificates/55593109">cliquer ici Prenez en main Bootstrap</a></p>
               <p><a href="http://openclassrooms.com/course-certificates/96526761">cliquer ici Apprenez à naviguer en sécurité sur Internet</a></p>
               <a href="http://openclassrooms.com/course-certificates/91738989"> cliquer ici Concevez votre site web avec PHP et MySQL</a></p>
-             <a href="https://openclassrooms.com/course-certificates/48045678 "> cliquer ici gérer son code avec Git et Github</a></p> </center>
-               <a href="  https://openclassrooms.com/learning-path-certificates/2425368676 ">Intégrateur Web </a></p> </center>
+              <a href="https://openclassrooms.com/course-certificates/48045678 "> cliquer ici gérer son code avec Git et Github</a></p> </center>
+               <a href="https://openclassrooms.com/learning-path-certificates/2425368676">integrateur weub</a></p>
+              
+              
+              
+              
+              
+        
+           
+            </div>
+        </section>
+              
+        
